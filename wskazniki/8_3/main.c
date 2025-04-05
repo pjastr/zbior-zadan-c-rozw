@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 void copyInt(int x, int *w) {
     *w = x;
 }
